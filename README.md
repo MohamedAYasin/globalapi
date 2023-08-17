@@ -1,4 +1,4 @@
-<img src="https://github.com/MohamedAYasin/globalapi/blob/main/globalapi.jpg" />
+<img src="https://github.com/MohamedAYasin/globalapi//globalapi.jpg" />
 
 # globalapi
 
@@ -12,7 +12,7 @@ globalapi is a simple web application that is built in with api and generating t
 
 ## Visit our website:
 
-- [globalapi](https://sadickachuli.github.io/html_css_contest_-group14-/)
+- [globalapi](https://mohamedayasin.github.io/globalapi/)
 
 <h2 id="contributors">Contributors 👥</h2>  
 
