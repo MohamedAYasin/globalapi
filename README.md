@@ -11,6 +11,10 @@ globalapi is a simple web application that is built in with api and generating t
 - CSS
 - JavaScript
 
+## Credit
+
+- The API I used is from [Rest Countries](https://restcountries.com)
+
 ## Visit the website:
 
 - [globalapi](https://mohamedayasin.github.io/globalapi/)
