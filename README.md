@@ -1,7 +1,7 @@
 # Screenshots 📷
 ![globalapi](https://github.com/MohamedAYasin/globalapi/assets/116743995/1f34f5ee-2bfc-4e52-bd39-3907b05e198d)
 
-#@ globalapi
+## globalapi
 
 globalapi is a simple web application that is built in with api and generating the countries of the world when you put them by their names. when you put in the name of the country, the web shows the country flag, the country population, the country region and the country capital city.  I used restcountries.com api and I enjoyed working on it although it took me more than 20 hours of work.
 
