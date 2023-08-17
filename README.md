@@ -1,4 +1,4 @@
-<img src="https://github.com/MohamedAYasin/globalapi//globalapi.jpg" />
+![globalapi](https://github.com/MohamedAYasin/globalapi/assets/116743995/1f34f5ee-2bfc-4e52-bd39-3907b05e198d)
 
 # globalapi
 
